@@ -101,4 +101,9 @@ assets/images/
 ## Submission
 
 - GitHub repository: https://github.com/Kishan-Agarwal-28/react-native/tree/main/assignment02
+- demo video 
+
+https://github.com/user-attachments/assets/37adf572-3588-4417-a9d0-07b6414cffae
+
+
 - Additional improvements: multi-select toolbar, pinned notes, tag pills, responsive grid
