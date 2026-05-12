@@ -1,0 +1,32 @@
+{
+  "name": "rn",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Kishan-Agarwal-28/react-native#readme",
+  "bugs": {
+    "url": "https://github.com/Kishan-Agarwal-28/react-native/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kishan-Agarwal-28/react-native.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "prepare": "husky",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,md,mdx,yml,yaml,css,scss}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.3"
+  }
+}

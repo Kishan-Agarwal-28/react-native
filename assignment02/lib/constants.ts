@@ -1,0 +1,77 @@
+export const THEME = {
+  light: {
+    bg: "#F2F2F7",
+    cardBg: "#FFFFFF",
+    headerBg: "#FFFFFF",
+    inputBg: "#E5E5EA",
+    keyboardBg: "#CDD0D8",
+    border: "#E5E5EA",
+
+    text1: "#1C1C1E",
+    text2: "#6D6D72",
+    text3: "#AEAEB2",
+    text4: "#FFFFFF",
+    accent: "#E8622A",
+    accentBg: "rgba(232, 98, 42, 0.11)",
+
+    tagWork: "#E8622A",
+    tagWorkBg: "rgba(232, 98, 42, 0.11)",
+    tagPersonal: "#1A6B3C",
+    tagPersonalBg: "#E4F4ED",
+    tagTravel: "#0F4F9A",
+    tagTravelBg: "#E0EEF9",
+    tagOtherBg: "#E5E5EA",
+    tagOther: "#1C1C1E",
+  },
+
+  dark: {
+    bg: "#000000",
+    cardBg: "#1C1C1E",
+    headerBg: "#1C1C1E",
+    inputBg: "#2C2C2E",
+    keyboardBg: "#3A3A3C",
+    border: "#38383A",
+
+    text1: "#FFFFFF",
+    text2: "#AEAEB2",
+    text3: "#636366",
+    text4: "#1C1C1E",
+
+    accent: "#FF7A45",
+    accentBg: "rgba(255, 122, 69, 0.16)",
+
+    tagWork: "#FF7A45",
+    tagWorkBg: "rgba(255, 122, 69, 0.16)",
+    tagPersonal: "#4CD97B",
+    tagPersonalBg: "rgba(76, 217, 123, 0.15)",
+    tagTravel: "#5AC8FA",
+    tagTravelBg: "rgba(90, 200, 250, 0.15)",
+    tagOtherBg: "rgba(255, 255, 255, 0.15)",
+    tagOther: "#FFFFFF",
+  },
+  unspecified: {
+    bg: "#F2F2F7",
+    cardBg: "#FFFFFF",
+    headerBg: "#FFFFFF",
+    inputBg: "#E5E5EA",
+    keyboardBg: "#CDD0D8",
+    border: "#E5E5EA",
+
+    text1: "#1C1C1E",
+    text2: "#6D6D72",
+    text3: "#AEAEB2",
+    text4: "#FFFFFF",
+
+    accent: "#E8622A",
+    accentBg: "rgba(232, 98, 42, 0.11)",
+
+    tagWork: "#E8622A",
+    tagWorkBg: "rgba(232, 98, 42, 0.11)",
+    tagPersonal: "#1A6B3C",
+    tagPersonalBg: "#E4F4ED",
+    tagTravel: "#0F4F9A",
+    tagTravelBg: "#E0EEF9",
+    tagOtherBg: "#E5E5EA",
+    tagOther: "#1C1C1E",
+  },
+};
