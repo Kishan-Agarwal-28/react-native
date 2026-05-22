@@ -46,7 +46,7 @@ export default function Index() {
   const isSelectionMode = selectedIds.length > 0;
 
   useEffect(() => {
-    // ScreenOrientation.lockAsync(ScreenOrientation.OrientationLock.LANDSCAPE);
+    ScreenOrientation.lockAsync(ScreenOrientation.OrientationLock.LANDSCAPE);
     if (search.trim() === "") {
       setSearchNotes(notes);
     } else {
