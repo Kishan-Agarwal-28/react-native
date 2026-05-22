@@ -134,3 +134,10 @@ This opens Restaurant Detail directly for the matching restaurant id.
 - Auth state is mocked through the app context in [lib/app_context.tsx](lib/app_context.tsx).
 - Cart state and restaurant data are held in local context for demo purposes.
 - The current deep-link scheme in the app is `foodie://`.
+
+## Demo
+
+
+https://github.com/user-attachments/assets/de5a4f43-e448-46c2-82d1-8e7eb64692c1
+
+
