@@ -173,3 +173,5 @@ npm start
 - The app targets React Native's new architecture. If you encounter bridge-related warnings with older Expo SDK versions, enable the new architecture in `app.json`.
 
 ## Demo
+https://github.com/user-attachments/assets/2d1ce57b-0832-4916-aed0-24e4a68ef650
+
