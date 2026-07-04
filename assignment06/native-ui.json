@@ -1,0 +1,26 @@
+{
+  "$schema": "https://nativeui.qzz.io/schema.json",
+  "typescript": true,
+  "outputDir": "src/components/ui",
+  "expoRunner": "pnpm",
+  "baseDependencies": [
+    "react-native-reanimated",
+    "react-native-worklets",
+    "@rn-primitives/portal"
+  ],
+  "components": [
+    "accordion",
+    "alert-dialog",
+    "badge",
+    "button",
+    "button-group",
+    "card",
+    "input",
+    "lib-theme",
+    "lib-use-styles",
+    "separator",
+    "skeleton",
+    "sonner",
+    "switch"
+  ]
+}

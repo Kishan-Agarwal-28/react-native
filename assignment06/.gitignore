@@ -41,5 +41,6 @@ app-example
 # generated native folders
 /ios
 /android
-assignment06/app-debug.apk
-assignment06/tasks-app-21a2f-firebase-adminsdk-fbsvc-2c46814ac3.json
+google-services.json
+app/tasks-app-21a2f-firebase-adminsdk-fbsvc-2c46814ac3.json
+*.apk
