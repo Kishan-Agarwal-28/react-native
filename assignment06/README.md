@@ -164,3 +164,9 @@ Because push notifications rely on native device capabilities and external push 
 - **Timezones:** Reminders and streak reset logic rely on the device's local timezone.
 
 - **Invalid Tokens:** If a server pushes to a device that has uninstalled the app, Expo returns a `DeviceNotRegistered` error. In a production backend, this receipt would trigger the removal of the token from the database.
+---
+## Demo
+
+
+https://github.com/user-attachments/assets/70433546-e36a-4600-a6ff-6323930fb290
+
